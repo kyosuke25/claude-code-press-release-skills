@@ -1,0 +1,11 @@
+# 会社固有の設定（要セットアップ）
+rules/company-info.md
+rules/folder-structure.md
+rules/file-naming.md
+
+# Wordテンプレート（会社固有のフォーマット）
+templates/*.docx
+
+# OS generated files
+.DS_Store
+Thumbs.db
